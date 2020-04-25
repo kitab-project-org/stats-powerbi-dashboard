@@ -1,9 +1,7 @@
 ## February 2020 Statistical - Pairwise Alignments (Primary Book only)
 
-[PowerBI Dashboard] 
-
-### Raw dataset
-For downloadable raw dataset and PowerBI files, please check the **quicklinks** where the direct link is provided.
+### PowerBI dashboard & raw dataset 
+For PowerBI dashboard based on this dataset and downloadable raw data including raw PowerBI files, please check the **quicklinks** where the direct link is provided.
 
 
 | Original Column Name | Renamed Column (PowerBI) | Definition  |
@@ -35,6 +33,3 @@ For downloadable raw dataset and PowerBI files, please check the **quicklinks** 
 |chrono_B1B2  | chrono_B1B2 (not used) | choronological order, to check self reuse
 |chrono_B2B1  | chrono_B2B1 (not used) | choronological order, to check self reuse
 |chrono  | chrono | choronological order, to check self reuse
-
-
-[PowerBI Dashboard]: https://app.powerbi.com/view?r=eyJrIjoiMWU0MTcxNjItMzFjYi00Y2VjLWE1NTAtYmI5NDUzZjIyNGMxIiwidCI6ImMwNWZhOGIxLTI1OTItNGEyMC05ZTEyLTdjODlmZDk4NDJjZiJ9
