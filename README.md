@@ -2,8 +2,8 @@
 
 [PowerBI Dashboard] 
 
-### Raw Dataset
-This link provides all the [downloadable raw datasets] (csv/json where) for the dashaboard created above.
+### Raw dataset
+For downloadable raw dataset and PowerBI files, please check the **quicklinks** where the direct link is provided.
 
 
 | Original Column Name | Renamed Column (PowerBI) | Definition  |
@@ -38,4 +38,3 @@ This link provides all the [downloadable raw datasets] (csv/json where) for the 
 
 
 [PowerBI Dashboard]: https://app.powerbi.com/view?r=eyJrIjoiMWU0MTcxNjItMzFjYi00Y2VjLWE1NTAtYmI5NDUzZjIyNGMxIiwidCI6ImMwNWZhOGIxLTI1OTItNGEyMC05ZTEyLTdjODlmZDk4NDJjZiJ9
-[downloadable raw datasets]:https://1drv.ms/u/s!AmyexwQRlc2hgYlHbrkZhM4GK0byuA?e=9rrUya
