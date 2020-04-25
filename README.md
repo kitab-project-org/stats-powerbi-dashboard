@@ -1,3 +1,11 @@
+## February 2020 Statistical - Pairwise Alignments (Primary Book only)
+
+[PowerBI Dashboard] 
+
+### Raw Dataset
+This link provides all the [downloadable raw datasets] (csv/json where) for the dashaboard created above.
+
+
 | Original Column Name | Renamed Column (PowerBI) | Definition  |
 | ---------- | --- | --- |
 | _T1        | Book 1 Id | Book 1 Id i.e. JK00001 |
@@ -29,4 +37,5 @@
 |chrono  | chrono | choronological order, to check self reuse
 
 
-
+[PowerBI Dashboard]: https://app.powerbi.com/view?r=eyJrIjoiMWU0MTcxNjItMzFjYi00Y2VjLWE1NTAtYmI5NDUzZjIyNGMxIiwidCI6ImMwNWZhOGIxLTI1OTItNGEyMC05ZTEyLTdjODlmZDk4NDJjZiJ9
+[downloadable raw datasets]:https://1drv.ms/u/s!AmyexwQRlc2hgYlHbrkZhM4GK0byuA?e=9rrUya
