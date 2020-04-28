@@ -30,6 +30,6 @@ For PowerBI dashboard based on this dataset and downloadable raw data including 
 |WM_B1inB2  | WM_B1inB2 | Number of **words** matched in book two from book one
 |CM_B2inB1  | CM_B1inB2 | Number of **characters** matched in book one from book two 
 |CM_B1inB2  | CM_B1inB2 | Number of **characters** matched in book two from book one
-|chrono_B1B2  | chrono_B1B2 (not used) | choronological order, to check self reuse
-|chrono_B2B1  | chrono_B2B1 (not used) | choronological order, to check self reuse
+|chrono_B1B2  | chrono_B1B2 (not used) | choronological order of the reuse, contains self reuse cases
+|chrono_B2B1  | chrono_B2B1 (not used) | choronological orderof the reuse, contains self reuse cases
 |chrono  | chrono | choronological order, to check self reuse
