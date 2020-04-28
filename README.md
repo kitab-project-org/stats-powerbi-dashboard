@@ -32,4 +32,3 @@ For PowerBI dashboard based on this dataset and downloadable raw data including 
 |CM_B1inB2  | CM_B1inB2 | Number of **characters** matched in book two from book one
 |chrono_B1B2  | chrono_B1B2 (not used) | choronological order of the reuse, contains self reuse cases
 |chrono_B2B1  | chrono_B2B1 (not used) | choronological orderof the reuse, contains self reuse cases
-|chrono  | chrono | choronological order, to check self reuse
